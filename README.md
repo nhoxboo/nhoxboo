@@ -56,12 +56,22 @@
       <p>Bộ công cụ tự động hóa và hỗ trợ chơi game Pokemon Survivor. Tối ưu vòng lặp gameplay, tự động nâng cấp chiêu thức, săn item và tối ưu hiệu suất trình duyệt.</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">📱 <a href="https://github.com/nhoxboo/web-scrcpy-fresh">Web-Scrcpy Fresh</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/WebCodecs-Hardware%20Accel-2563EB?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-Scrcpy-3DDC84?style=flat-square&logo=android&logoColor=white" />
+      </p>
+      <p>Nền tảng truyền hình ảnh & điều khiển thiết bị Android qua trình duyệt với độ trễ siêu thấp (Low Latency), tận dụng WebCodecs giải mã phần cứng GPU và kết nối WebSocket an toàn.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
       <h3 align="center">🛰️ <a href="https://github.com/nhoxboo/waze-hud-studio">Waze HUD Studio</a> & <a href="https://github.com/nhoxboo/vietmap-hud-web-flasher">Vietmap Web Flasher</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/ESP32-Firmware-E11D48?style=flat-square&logo=espressif&logoColor=white" />
         <img src="https://img.shields.io/badge/Web%20Serial-Flasher-0284C7?style=flat-square&logo=googlechrome&logoColor=white" />
       </p>
-      <p>Hệ sinh thái phần mềm & web flasher trực tiếp qua Web Serial API dành cho thiết bị kính lái HUD ô tô, đồng bộ cảnh báo tốc độ Waze và Vietmap qua Bluetooth BLE.</p>
+      <p align="center">Hệ sinh thái phần mềm & web flasher trực tiếp qua Web Serial API dành cho thiết bị kính lái HUD ô tô, đồng bộ cảnh báo tốc độ Waze và Vietmap qua Bluetooth BLE.</p>
     </td>
   </tr>
 </table>
